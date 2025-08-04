@@ -3,8 +3,8 @@ var area = 800;
 //write your code here
 
 var result = area / 2;
-console.log("Rahim will get " + result);
-console.log("Karim will get " + result);
+console.log(" Rahim will get " + result);
+console.log(" Karim will get " + result);
 
 
 /** Problem -01 ( Divide the Asset ) */

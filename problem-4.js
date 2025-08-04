@@ -4,10 +4,10 @@ var fileName= "pdfData.jpg";
 
 if (fileName.startsWith("#") || fileName.endsWith(".pdf") || fileName.endsWith(".docx"))
 {
-  console.log("Store");
+  console.log(" " +"Store");
 } else 
 {
-  console.log("Delete");
+  console.log(" " + "Delete");
 }
 
 // /** Problem 04 - (Delete / Store) */
